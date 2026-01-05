@@ -9,7 +9,6 @@ export default function MainNav() {
   const links = [
     { label: "Home", to: "/" },
     { label: "Todos", to: "/todos" },
-    { label: "Add Todo", to: "/todos/add" },
     { label: "Users", to: "/users" },
     { label: "Posts", to: "/posts" },
     {label: "Photos", to: "/Photos" }
